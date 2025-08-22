@@ -129,5 +129,3 @@ class CheckoutSolution:
         # (Nothing to add if none of S/T/X/Y/Z present)
 
         return total
-
-
